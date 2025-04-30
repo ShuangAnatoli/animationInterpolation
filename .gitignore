@@ -1,0 +1,9 @@
+dir_to_ignore/SAIN/
+dir_to_ignore/RIFE/
+dir_to_ignore/eval_data/
+dir_to_ignore/save_checkpoints/
+dir_to_ignore/datasets/
+dir_to_ignore/test_2k/
+dir_to_ignore/train_10k/
+
+genertae_eval.py
