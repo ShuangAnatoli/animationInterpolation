@@ -1,9 +1,6 @@
-# Video Frame Restoration Program
+# Video Frame Interpolation Program
 
-
-https://github.com/user-attachments/assets/e5fabbd0-02c7-4561-9e5b-37b7b988db20
-
-
+![Example Video](three_frame_sequence.mp4)
 For the full paper: [Paper](https://drive.google.com/file/d/1EESd81NSs93OJYb42DartC5udTlOShRp/view?usp=sharing)
 
 ## Installation
