@@ -1,6 +1,6 @@
 # Video Frame Interpolation Program
 
-https://github.com/ShuangAnatoli/animationInterpolation/blob/main/three_frame_sequence.mp4
+![Example](three_frame_sequence.mp4)
 For the full paper: [Paper](https://drive.google.com/file/d/1EESd81NSs93OJYb42DartC5udTlOShRp/view?usp=sharing)
 
 ## Installation
